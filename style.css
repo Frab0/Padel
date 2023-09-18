@@ -38,12 +38,12 @@ body{
     flex-direction: row;
 }
 
-
 .risultato{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: row;
+    margin-bottom: 10px;
 }
 
 .partita{
@@ -54,7 +54,7 @@ body{
     border: 5px solid rgb(255, 255, 255);
     border-radius: 50px;
     padding: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 
